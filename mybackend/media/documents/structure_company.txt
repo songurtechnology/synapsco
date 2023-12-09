@@ -1,0 +1,314 @@
+Navigation Bar Structure (main navigation bar related pages)
+
+
+SynapsCO (logo): default (Home) - main item in main navigation bar
+
+
+Services: (Dropdown) - main item in main navigation bar
+
+Digital Marketing Services:
+
+Search Engine Optimization (SEO):
+On-page and off-page SEO strategies to enhance website visibility in search engines.
+Pay-Per-Click (PPC) Advertising:
+Creation and management of targeted advertising campaigns for search engines and social media.
+Social Media Marketing (SMM):
+Strategic promotion of products or services on various social media platforms.
+Content Marketing:
+Development and distribution of valuable content to attract and engage a target audience.
+Email Marketing:
+Targeted email campaigns to nurture leads and retain customers.
+Analytics and Reporting:
+Regular monitoring, analysis, and reporting of campaign performance for continuous improvement.
+
+Graphic Design Services:
+
+Logo Design:
+Creation of unique and memorable logos that represent the brand identity.
+Branding and Identity:
+Development of cohesive visual identities, including color schemes, typography, and brand guidelines.
+Print Design:
+Design of print materials such as brochures, business cards, posters, and banners.
+UI/UX Design:
+User interface and user experience design for websites and applications.
+Packaging Design:
+Designing attractive and functional packaging for products.
+Social Media Graphics:
+Creation of graphics optimized for various social media platforms.
+Illustrations:
+Custom illustrations for digital and print use.
+Infographics:
+Design of visually appealing and informative infographics.
+
+Web Development Services:
+
+Front-end Development:
+Implementation of user interfaces using technologies like HTML, CSS, and JavaScript.
+Back-end Development:
+Server-side development, database management, and application logic.
+Full-Stack Development:
+End-to-end development, covering both front-end and back-end aspects.
+E-commerce Solutions:
+Development of online stores with features like shopping carts and secure payment gateways.
+Custom Web Applications:
+Building tailored web applications to meet specific business needs.
+Content Management Systems (CMS):
+Implementation and customization of CMS platforms for easy content management.
+Website Maintenance:
+Ongoing support, updates, and maintenance services for websites.
+Responsive Web Design:
+Ensuring websites are optimized for various devices and screen sizes.
+
+AI/ML Solutions:
+
+Machine Learning Algorithms:
+Development and implementation of custom machine learning algorithms.
+Predictive Analytics:
+Analyzing historical data to make predictions about future trends.
+Natural Language Processing (NLP):
+Enabling machines to understand and process human language.
+Computer Vision:
+Using AI to interpret and understand visual information from the world.
+Recommendation Systems:
+Creating personalized recommendations based on user behavior.
+Chatbots and Virtual Assistants:
+Development of AI-driven chatbots for customer support and interaction.
+Data Analysis and Visualization:
+Analyzing large datasets and presenting insights through visualizations.
+Speech Recognition:
+Implementing systems that can recognize and understand spoken language.
+
+
+Our Work: (Dropwdown) - main item in main navigation bar
+
+Portfolios
+
+Graphic Design Portfolios:
+Logo Design
+Branding and Identity
+Print Design
+UI/UX Design
+Packaging Design
+Social Media Graphics
+Illustrations
+Infographics
+
+Web Development Portfolios:
+Front-end Development
+Back-end Development
+Full-Stack Development
+E-commerce Solutions
+Custom Web Applications
+Content Management Systems (CMS)
+Website Maintenance
+Responsive Web Design
+
+AI/ML Solutions Portfolios:
+Machine Learning Algorithms
+Predictive Analytics
+Natural Language Processing (NLP)
+Computer Vision
+Recommendation Systems
+Chatbots and Virtual Assistants
+Data Analysis and Visualization
+Speech Recognition
+
+
+Projects
+
+Digital Marketing Projects:
+Search Engine Optimization (SEO)
+On-page and off-page SEO strategies
+Pay-Per-Click (PPC) Advertising
+Creation and management of targeted ad campaigns
+Social Media Marketing (SMM)
+Strategic promotion on various platforms
+Content Marketing
+Development and distribution of valuable content
+Email Marketing
+Targeted email campaigns
+Analytics and Reporting
+Regular monitoring, analysis, and reporting
+
+Industries:
+All Industries
+Healthcare
+Finance
+Education
+Technology
+Retail
+Hospitality
+Manufacturing
+
+Integrated Services Projects:
+Projects that showcase the integration of graphic design, web development, and AI/ML solutions.
+Highlight how your services work together to provide comprehensive solutions.
+
+
+Company: (Dropdown) - main item in main navigation bar
+
+About Us:
+Founding Story:
+Share the history and founding story of the company.
+Mission and Vision:
+Define the company's mission and vision for the future.
+Values:
+Detail the core values that guide your company's actions.
+Team Members:
+Introduce key team members with their roles and contributions.
+Awards and Recognition:
+Showcase any awards or notable recognitions received by the company.
+Social Responsibility:
+Highlight the company's initiatives related to social responsibility and sustainability.
+Testimonials:
+Include positive feedback and testimonials from clients or partners.
+
+Career:
+Job Openings:
+List current job openings within the company.
+Company Culture:
+Describe the company's culture, values, and work environment.
+Employee Benefits:
+Outline the benefits and perks offered to employees.
+Application Process:
+Provide information on how to apply for positions.
+Team and Leadership:
+Introduce the leadership team and key decision-makers.
+Employee Testimonials:
+Share testimonials or experiences from current employees.
+
+News:
+Company Updates:
+Share recent developments, achievements, or milestones.
+Industry Insights:
+Provide insights and commentary on trends within your industry.
+Press Releases:
+Publish official press releases related to the company.
+Event Announcements:
+Announce upcoming events, conferences, or webinars.
+Media Coverage:
+Collect and showcase media coverage the company has received.
+Newsletter Archive:
+If applicable, archive past newsletters or company updates.
+
+
+Contact: default
+
+
+Hero section (Structure) - below of the main navigation bar
+Contents including Explore Our Services and Request demo with amazing contents and background video or design
+Explore Our Services (button)
+Request a Demo (button)
+
+
+
+Language locating/Design (Structure) - in indicated point of home page! Maybe right centeralize
+
+Some websites opt for a dedicated language selector widget, often in the form of a flag icon or a dropdown list. This can be placed prominently in the header or another visible location.
+Splash Page or Pop-up:
+
+
+
+
+Secondary Navigation Bar (related to sections in home page)
+Expertise Showcase
+Technology Stack Insights
+Differentiators Spotlight
+Interactive Demos and Tests
+Connect with Us
+Global Presence
+
+Home Page Sections (Structure - (related secondary navigation bar)
+
+Expertise Showcase:
+Highlight our range of services and expertise.
+Showcase the diverse solutions we offer in web development, AI/ML, and graphic design.
+Technology Stack Insights:
+Explore the advanced technologies and tools we leverage.
+Dive into the tech stack that powers our innovative solutions.
+Differentiators Spotlight:
+Discover why choosing us sets you apart.
+Explore our unique selling points and what makes us stand out in the industry.
+Interactive Demos and Tests:
+Experience Our Solutions Firsthand.
+Explore interactive demos and test environments showcasing our projects and capabilities.
+Connect with Us:
+Reach out and connect with our team.
+Find our contact information and various ways to get in touch.
+Global Presence:
+Explore Our Offices Worldwide.
+Learn about our global presence and the diverse locations where we operate.
+
+
+Footer Section (End of Home page sections, connecting related pages)
+
+Company Name and logo:
+About Us
+Mission and Vision
+Team Members
+Values
+Awards and Recognition
+Social Responsibility
+Testimonials
+
+Our Services:
+All Services
+Graphic Design
+Logo Design
+Branding and Identity
+Print Design
+UI/UX Design
+Packaging Design
+Social Media Graphics
+Illustrations
+Infographics
+Web Development
+Front-end Development
+Back-end Development
+Full-Stack Development
+E-commerce Solutions
+Custom Web Applications
+Content Management Systems (CMS)
+Website Maintenance
+Responsive Web Design
+AI/ML Solutions
+Machine Learning Algorithms
+Predictive Analytics
+Natural Language Processing (NLP)
+Computer Vision
+Recommendation Systems
+Chatbots and Virtual Assistants
+Data Analysis and Visualization
+Speech Recognition
+
+Industries:
+All Industries
+Healthcare
+Finance
+Education
+Technology
+Retail
+Hospitality
+Manufacturing
+
+Contact Us:
+Contact Information
+Our Offices
+Request a Demo
+Job Openings
+Company Culture
+Employee Benefits
+Application Process
+Team and Leadership
+Employee Testimonials
+
+News:
+All News
+Press Releases
+Upcoming Events
+Company Blog
+Company Updates
+Industry Insights
+Event Announcements
+Media Coverage
+Newsletter Archive
